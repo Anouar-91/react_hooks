@@ -2,8 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="text-center">
-      test
+    <div className="App">
+
     </div>
   );
 }
